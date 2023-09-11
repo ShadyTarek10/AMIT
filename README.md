@@ -1,2 +1,2 @@
 # AMIT
-Contains codes done during AMIT training course period
+Contains all codes done during AMIT training course period
