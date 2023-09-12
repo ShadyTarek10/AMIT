@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "ASCII.C": "cpp",
+        "pointers.h": "c"
+    }
+}
